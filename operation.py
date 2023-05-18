@@ -10,8 +10,7 @@ def add(left_value,right_value):
 
 # subtract 뺄샘 연산
 def sub(left_value,right_value):
-    # TODO
-    return
+    return left_value - right_value
 
 # multiplied by 곱샘 연산
 def mul(left_value,right_value):
