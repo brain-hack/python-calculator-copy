@@ -6,8 +6,7 @@
 # 이 함수는 덧샘을 하기위한 함수입니다.
 # left값과 right값을 더해서 출력합니다.
 def add(left_value,right_value):
-    # TODO
-    return
+    return left_value + right_value
 
 # subtract 뺄샘 연산
 def sub(left_value,right_value):
